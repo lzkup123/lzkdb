@@ -1,2 +1,2 @@
-# lzkdb
-装逼用
+#lzkdb
+lzkgit
